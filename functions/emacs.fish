@@ -1,3 +1,3 @@
 function emacs
-  open -a /Applications/Emacs.app "$argv" &
+  /Applications/Emacs.app/Contents/MacOS/Emacs "$argv" &
 end
